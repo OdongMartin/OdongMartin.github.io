@@ -1,3 +1,3 @@
 # PORTFOLIO
 
-Just my porfolio
+Check out my portfolio 
