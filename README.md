@@ -1,3 +1,3 @@
 # PORTFOLIO
-
-Check out my portfolio 
+## Odong Martin
+Check out my portfolio
