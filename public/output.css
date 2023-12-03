@@ -983,6 +983,18 @@ video {
     border-color: rgb(220 38 38 / var(--tw-border-opacity));
   }
 
+  .md\:border-transparent {
+    border-color: transparent;
+  }
+
+  .md\:border-l-transparent {
+    border-left-color: transparent;
+  }
+
+  .md\:pl-0 {
+    padding-left: 0px;
+  }
+
   .md\:text-2xl {
     font-size: 1.5rem;
     line-height: 2rem;
