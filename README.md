@@ -1,3 +1,3 @@
 # PORTFOLIO
 ## Odong Martin
-Check out my portfolio
+Check out my personal website
