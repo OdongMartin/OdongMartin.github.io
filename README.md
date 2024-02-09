@@ -2,5 +2,5 @@
 ## Odong Martin
 Check out my personal website
 check out my projects. Shop App project in works. 
-NEXTJS 
+React/NEXTJS 
 contact me
