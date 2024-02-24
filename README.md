@@ -1,4 +1,4 @@
 # PORTFOLIO
 ## Odong Martin
-check out my projects. Shop App project in works. 
+Check out my projects. Shop App project in works. 
 React/NEXTJS
