@@ -1,4 +1,3 @@
 # PORTFOLIO
 ## Odong Martin
-Check out my projects. Shop App project in works. 
-React
+Check out my projects.
