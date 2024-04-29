@@ -1,2 +1,2 @@
 # PORTFOLIO
-Check out my projects.
+Check out my projects
